@@ -69,7 +69,7 @@ In Review. Everything in the PR has been completed, with very minor changes to b
 In Process. Few of the goals are achieved, with weight converter cpp file in progress.
 
 ## Other Contributions
-[Refactor Tests to use approx_value function].(https://github.com/mlpack/mlpack/pull/2901)
+[Refactor Tests to use approx_value function](https://github.com/mlpack/mlpack/pull/2901)
 
 ## Scope and Future Work
 I would like to continue contributing to mlpack's repositories since it alligns well with my personal area of interest as well. Firstly, I would like to finish remaining parts of the project. Secondly, during the project, I found training deep neural networks with large datasets to be extremely time consuming only with CPU. Thus, I would like to focus on GPU integration with mlpack for faster matrix operations.
